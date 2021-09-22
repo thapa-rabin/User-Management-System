@@ -1,0 +1,7 @@
+com\example\userinfosystem\controller\UserController.class
+com\example\userinfosystem\model\User.class
+com\example\userinfosystem\model\Address.class
+com\example\userinfosystem\service\UserServiceImpl.class
+com\example\userinfosystem\repository\UserRepository.class
+com\example\userinfosystem\service\UserService.class
+com\example\userinfosystem\UserInfoSystemApplication.class
